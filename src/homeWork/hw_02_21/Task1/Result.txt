@@ -1,0 +1,3 @@
+Apskritimas - plotas 148.04406601634037
+Kvadratas - plotas 96.0
+Statusis trikampis - plotas 27.0

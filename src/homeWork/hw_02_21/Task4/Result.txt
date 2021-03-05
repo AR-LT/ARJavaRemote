@@ -1,0 +1,9 @@
+[The most expensive product of the company : Žemaitijos pienas is Sūris Džiugas brandintas 24 mėn.
+, The most expensive product of the company : Ginalas is Vejos robotas iMOW
+, The most expensive product of the company : iStore is iPhone 12 Pro
+, The most expensive product of the company : Krasta Auto is BMW 4 serija
+, The most expensive product of the company : Kilobaitas is Televizorius
+]
+[Companys name  with `productType` -> TECHNOLOGIES: iStore, 
+, Companys name  with `productType` -> TECHNOLOGIES: Kilobaitas, 
+]
