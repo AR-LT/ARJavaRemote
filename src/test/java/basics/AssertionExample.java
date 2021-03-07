@@ -4,7 +4,7 @@ import fundamentals_testing.Calculetor;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class AssertionExamples {
+public class AssertionExample {
     @Test
     public void testAssetEquals(){
         //given
@@ -45,4 +45,5 @@ public class AssertionExamples {
         //then
         Assertions.assertEquals(2, result);
     }
+
 }
