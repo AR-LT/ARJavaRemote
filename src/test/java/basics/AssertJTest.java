@@ -4,7 +4,7 @@ import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 public class AssertJTest {
-    @Test
+ /*   @Test
     public void testAssertJMatcher() {
         //given
         String text = "abc";
@@ -18,7 +18,7 @@ public class AssertJTest {
                 .contains("dfg")
                 .doesNotContain("aaaaa");
     }
-
+*/
     @Test
     public void shouldAddNumbers() {
         //given
