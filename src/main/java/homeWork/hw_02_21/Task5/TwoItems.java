@@ -19,8 +19,9 @@ public class TwoItems <T>{
 
     @Override
     public String toString() {
-        return "TwoItems " +
+        return "TwoItems{" +
                 "entry1=" + entry1 +
-                ", entry2=" + entry2;
+                ", entry2=" + entry2 +
+                '}';
     }
 }
