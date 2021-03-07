@@ -85,7 +85,7 @@ public class AssertionExample {
     public void testAssertArrayEquals() {
         //given
         int[] firstArr = {1, 2, 3};
-        int[] secondsArr = {4, 5, 6};
+        int[] secondsArr = {1, 2, 3};
         //when
 
         //then
