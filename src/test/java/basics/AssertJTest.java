@@ -8,14 +8,14 @@ public class AssertJTest {
     public void testAssertJMatcher() {
         //given
         String text = "abc";
-        String[] textArr = {"abc, dfg, sde"};
+        String[] textArr = {"abc", "dfg", "sde"};
         //when
 
         //then
         Assertions.assertThat(textArr)
                 .hasSize(3)
                 .contains(text)
-                .contains("ogf")
+                .contains("dfg")
                 .doesNotContain("aaaaa");
     }
 
