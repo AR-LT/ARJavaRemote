@@ -23,7 +23,7 @@ public class AssertionExample {
         //when
         int result = calculetor.subtract(10,8);
         //then
-        Assertions.assertEquals(2, result);
+        Assertions.assertEquals(10, result);
     }
     @Test
     public void testCalculatormultiplication(){
